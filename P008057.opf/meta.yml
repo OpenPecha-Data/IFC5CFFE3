@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W2PD16798
   title: ཆུ་ཆེན་རྫོང་གི་ས་ཆའི་མིང་བཏུས།
-  volume: ''
+  volume:
+    68acabfad80c440cb0248ef85a3de188:
+      image_group_id: I2PD16802
+      title: Volume 1 of chu chen rdzong gi sa cha'i ming btus/
+      volume_number: 1
+      total_pages: 234
   author: ''
+ebook_metadata:
+  title: ཆུ་ཆེན་རྫོང་གི་ས་ཆའི་མིང་བཏུས།
+  author: ''
+  sku: P008057
+  cover: cover.jpg
+  layers:
+  - pagination
