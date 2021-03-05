@@ -1,15 +1,16 @@
-id: opecha:P008057
+id: P008057
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W2PD16798
   title: ཆུ་ཆེན་རྫོང་གི་ས་ཆའི་མིང་བཏུས།
-  volume:
+  author: ''
+  volumes:
     68acabfad80c440cb0248ef85a3de188:
       image_group_id: I2PD16802
       title: Volume 1 of chu chen rdzong gi sa cha'i ming btus/
       volume_number: 1
       total_pages: 234
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཆུ་ཆེན་རྫོང་གི་ས་ཆའི་མིང་བཏུས།
   author: ''
