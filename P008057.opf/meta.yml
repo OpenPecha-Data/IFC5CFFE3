@@ -1,5 +1,7 @@
 id: P008057
 initial_creation_type: ocr
+created_at: 25/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W2PD16798
   title: ཆུ་ཆེན་རྫོང་གི་ས་ཆའི་མིང་བཏུས།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 234
       base_file: v001.txt
-ebook_metadata:
-  title: ཆུ་ཆེན་རྫོང་གི་ས་ཆའི་མིང་བཏུས།
-  author: ''
-  sku: P008057
-  cover: cover.jpg
-  layers:
-  - pagination
